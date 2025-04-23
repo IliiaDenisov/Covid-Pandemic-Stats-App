@@ -1,12 +1,12 @@
-## Приложение, визуализирующее мировую статистику заражений от covid-19
+## This app visualizes the statistics of people infected with COVID-19 and people who are consequently died from this virus
 
-Запуск приложения
+App setup process
 ```
 yarn dev
 ```
-Запуск тестов
+Running tests
 ```
 yarn test
 ```
 
-### Ссылка на API со статистикой: https://covid-api.com/api/
+### COVID-19 API used in this app: https://covid-api.com/api/
